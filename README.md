@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi, friend! Great that you came to me!</h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<p>&#65; &#66; &#67;</p>
 <h2>I’m Pavel, a  full-stack creative engineer.</h2>
 
 ### 🛠 &nbsp;Languages and Tools :
