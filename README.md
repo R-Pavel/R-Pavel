@@ -5,6 +5,7 @@
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
+<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=yellow" alt="Java Badge">
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge">
 <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
 <img src="https://img.shields.io/badge/Node.js-25381f?style=for-the-badge&logo=node.js&logoColor=6aa05c" alt="Node Badge">
