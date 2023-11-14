@@ -5,13 +5,8 @@
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge">
-<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge">
-<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
 <img src="https://img.shields.io/badge/Node.js-25381f?style=for-the-badge&logo=node.js&logoColor=6aa05c" alt="Node Badge">
-<img src="https://img.shields.io/badge/Nest.js-ea2845?style=for-the-badge&logo=nest&logoColor=6aa05c" alt="Express Badge">
-<img src="https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=6aa05c" alt="Express Badge">
 <img src="https://img.shields.io/badge/PHP-858eb8?style=for-the-badge&logo=php&logoColor=22242f" alt="PHP Badge">
 <img src="https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=fff" alt="Laravel Badge">
 <img src="https://img.shields.io/badge/HTML5-dd4b25?style=for-the-badge&logo=html5&logoColor=22242f" alt="HTML5 Badge">
