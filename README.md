@@ -6,6 +6,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge">
+<img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go&logoColor=yellow" alt="Go Badge">
 <img src="https://img.shields.io/badge/Node.js-25381f?style=for-the-badge&logo=node.js&logoColor=6aa05c" alt="Node Badge">
 <img src="https://img.shields.io/badge/PHP-858eb8?style=for-the-badge&logo=php&logoColor=22242f" alt="PHP Badge">
 <img src="https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=fff" alt="Laravel Badge">
